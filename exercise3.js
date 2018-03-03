@@ -6,7 +6,7 @@ function dataHandling() {
                   ["0003", "Winona", "Ambon", "25/12/1965", "Memasak"],
                   ["0004", "Bintang Senjaya", "Martapura", "6/4/1970", "Berkebun"]
               ];
-  var height = 4;
+  var height = input.length;
   var i = 1;
   var indexArray = 0;
 
